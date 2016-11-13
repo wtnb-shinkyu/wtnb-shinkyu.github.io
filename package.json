@@ -1,0 +1,23 @@
+{
+  "name": "wtnb-shinkyu.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wtnb-shinkyu/wtnb-shinkyu.github.io"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wtnb-shinkyu/wtnb-shinkyu.github.io/issues"
+  },
+  "homepage": "https://github.com/wtnb-shinkyu/wtnb-shinkyu.github.io",
+  "devDependencies": {
+    "pug": "^2.0.0-beta6"
+  }
+}
